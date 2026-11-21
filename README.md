@@ -1,2 +1,17 @@
-# meddar-download
-MedDar - latest APK download | ALDEEB Data Analysis
+# ميد دار | MedDar — كل جرعة في ميعادها
+
+## ⬇️ تحميل أحدث نسخة
+**[دوس هنا وحمّل MedDar.apk](https://github.com/aldeeb-data-analysis/meddar-download/releases/latest/download/MedDar.apk)**
+
+### طريقة التثبيت
+1. دوس على الرابط اللي فوق من موبايلك، وهينزل ملف اسمه **MedDar.apk**.
+2. افتح الملف من الإشعار أو من فولدر التنزيلات (Download).
+3. لو الموبايل سألك، اسمح بـ "التثبيت من مصادر غير معروفة" للمتصفح.
+4. دوس **تثبيت**. لو التطبيق متثبّت قبل كده، هيتحدّث وبياناتك هتفضل زي ما هي.
+
+بعد كده التطبيق نفسه هيقولك لما تنزل نسخة جديدة.
+
+> المستودع ده فيه ملف التثبيت بس، من غير أي كود.
+
+---
+Developed and provided by : Mohammad Aldeeb — ALDEEB Data Analysis
